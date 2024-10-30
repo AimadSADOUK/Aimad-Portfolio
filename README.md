@@ -1,7 +1,8 @@
 # Aimad's-Portfolio
 ### Projects
 #### **[Proj#01: Analyzing Morocco's Economy Against Global Trends](https://github.com/AimadSADOUK/Analyzing-Morocco-s-Economy-Against-Global-Trends)**  
-A data analysis and machine learning project using Python to explore Morocco’s position in global economic trends.  
+This project explores Morocco's economic trends relative to global metrics, focusing on GDP growth, birth and death rates, unemployment, and internet usage. Using data analysis and visualization, it reveals Morocco's economic standing and growth drivers. Additionally, a classification model categorizes countries by income level, achieving a 99.4% accuracy.
+
 *Skills*: 
 - **Pandas**
 - **NumPy**
@@ -13,7 +14,8 @@ A data analysis and machine learning project using Python to explore Morocco’s
 *(Oct 2024)* 
 
 #### **[Proj#02: HARANY - Sales Performance Analysis](https://github.com/AimadSADOUK/HARANY-Sales-Performance-Analysis_SQL_Power-BI)**  
-Conducted a detailed sales analysis for a fictional company, uncovering trends and growth opportunities to optimize customer engagement.  
+The HARANY Project is an in-depth sales performance analysis of HARANY, a fictional company providing innovative products across various sectors. This analysis utilizes SQL and Power BI to explore sales data across product lines, regions, deal sizes, and customer segments, aiming to uncover actionable insights to improve customer engagement and drive growth.
+
 *Skills:* 
 - **Window & Aggregation Functions**
 - **CTEs**
@@ -22,7 +24,18 @@ Conducted a detailed sales analysis for a fictional company, uncovering trends a
 *(Oct 2024)* 
 
 #### **[Proj#03: Restoring the Lifeblood of Maji Ndogo](https://github.com/AimadSADOUK/Restoring-the-Lifeblood-of-Maji-Ndogo)**  
-A project focused on sustainable water management in Maji Ndogo using SQL for strategic insights and solutions.  
+## Overview
+
+- During my training with Explore AI Academy, I tackled the water crisis in the fictitious country of Maji Ndogo using SQL. 
+- This five-week project enhanced my critical thinking and problem-solving skills while deepening my understanding of SQL.
+- I also developed a strategic approach to address future challenges in water resource management.
+
+## Project Objectives
+
+- **Identify Water Access Issues:** Analyze the existing data to determine areas lacking access to clean water.
+- **Provide Data-Driven Recommendations:** Use SQL analysis to suggest solutions for improving water resource management.
+- **Enhance Strategic Planning:** Develop insights to inform future water management policies.
+
 *Skills:*
 - **MySQL (DDL, DML, DQL)**
 - **Joins**
@@ -32,7 +45,7 @@ A project focused on sustainable water management in Maji Ndogo using SQL for st
 *(Oct 2024)* 
 
 #### **[Proj#04: Global Water Access Analysis Project](https://github.com/AimadSADOUK/Global-Water-Access-Analysis-Project)**  
-Conducted an exploratory data analysis (EDA) on global water access data, examining key metrics like urbanization and reliance on surface and unimproved water sources. Created a comprehensive dashboard to visualize key metrics related to water services and identify challenges in accessibility.  
+In this project, I conducted an exploratory data analysis (EDA) on global water access data, examining key metrics like urbanisation, reliance on surface and unimproved water sources, and trends in access to basic water services. This analysis provides insights into countries with the greatest challenges in water accessibility and highlights trends over recent years.  
 *Skills:* 
 -   **Pandas (data cleaning, manipulation)**
 -   **NumPy**

@@ -18,7 +18,7 @@ The HARANY Project is an in-depth sales performance analysis of HARANY, a fictio
 
 *Skills:* 
 - **Window & Aggregation Functions**
-- **CTEs**
+- **Common Table Expressions (CTEs)**
 - **DAX, Power BI (Data visualisation)** 
 
 *(Oct 2024)* 
@@ -40,7 +40,7 @@ The HARANY Project is an in-depth sales performance analysis of HARANY, a fictio
 - **MySQL (DDL, DML, DQL)**
 - **Joins**
 - **Window & Aggregation Functions**
-- **CTEs** 
+- **Common Table Expressions (CTEs)** 
 
 *(Oct 2024)* 
 

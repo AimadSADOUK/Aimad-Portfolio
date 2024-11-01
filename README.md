@@ -24,13 +24,13 @@ The HARANY Project is an in-depth sales performance analysis of HARANY, a fictio
 *(Oct 2024)* 
 
 ### Vis#01: Power BI Visualization Overview
-<img src="https://github.com/AimadSADOUK/HARANY-Sales-Performance-Analysis_SQL_Power-BI/blob/main/2-%20Page01.PNG" alt="Power BI Visualization Overview" width="600px">
+<img src="https://github.com/AimadSADOUK/HARANY-Sales-Performance-Analysis_SQL_Power-BI/blob/main/2-%20Page01.PNG" alt="Power BI Visualization Overview" width="900px">
 
 ### Vis#02: Detailed Product Line Analysis
-<img src="https://github.com/AimadSADOUK/HARANY-Sales-Performance-Analysis_SQL_Power-BI/blob/main/3-%20Page02.PNG" alt="Detailed Product Line Analysis" width="600px">
+<img src="https://github.com/AimadSADOUK/HARANY-Sales-Performance-Analysis_SQL_Power-BI/blob/main/3-%20Page02.PNG" alt="Detailed Product Line Analysis" width="900px">
 
 ### Vis#03: Regional Sales Trends
-<img src="https://github.com/AimadSADOUK/HARANY-Sales-Performance-Analysis_SQL_Power-BI/blob/main/4-%20Page03.PNG" alt="Regional Sales Trends" width="600px">
+<img src="https://github.com/AimadSADOUK/HARANY-Sales-Performance-Analysis_SQL_Power-BI/blob/main/4-%20Page03.PNG" alt="Regional Sales Trends" width="900px">
 
 
 # **[Proj#03: Restoring the Lifeblood of Maji Ndogo](https://github.com/AimadSADOUK/Restoring-the-Lifeblood-of-Maji-Ndogo)**  

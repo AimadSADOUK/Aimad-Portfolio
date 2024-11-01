@@ -12,6 +12,9 @@ This project explores Morocco's economic trends relative to global metrics, focu
 - **Scikit-Learn** (Predictive Modeling, Classification & Regression).
 
 *(Oct 2024)* 
+### GDP in morocco Over The Years
+
+![GDP in morocco Over The Years ](https://github.com/AimadSADOUK/Analyzing-Morocco-s-Economy-Against-Global-Trends/blob/main/GDP_Mor_over_Years.PNG)
 
 # **[Proj#02: HARANY - Sales Performance Analysis](https://github.com/AimadSADOUK/HARANY-Sales-Performance-Analysis_SQL_Power-BI)**  
 The HARANY Project is an in-depth sales performance analysis of HARANY, a fictional company providing innovative products across various sectors. This analysis utilizes SQL and Power BI to explore sales data across product lines, regions, deal sizes, and customer segments, aiming to uncover actionable insights to improve customer engagement and drive growth.

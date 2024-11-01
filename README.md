@@ -58,6 +58,9 @@ The HARANY Project is an in-depth sales performance analysis of HARANY, a fictio
 
 *(Oct 2024)* 
 
+# Relationship tables
+![image alt text](https://github.com/AimadSADOUK/Restoring-the-Lifeblood-of-Maji-Ndogo/blob/main/4-tables_relationships.PNG)
+
 # **[Proj#04: Global Water Access Analysis Project](https://github.com/AimadSADOUK/Global-Water-Access-Analysis-Project)**  
 In this project, I conducted an exploratory data analysis (EDA) on global water access data, examining key metrics like urbanisation, reliance on surface and unimproved water sources, and trends in access to basic water services. This analysis provides insights into countries with the greatest challenges in water accessibility and highlights trends over recent years.  
 *Skills:* 

@@ -1,6 +1,6 @@
 # Aimad's-Portfolio
 ### Projects
-## **[Proj#01: Analyzing Morocco's Economy Against Global Trends](https://github.com/AimadSADOUK/Analyzing-Morocco-s-Economy-Against-Global-Trends)**  
+# **[Proj#01: Analyzing Morocco's Economy Against Global Trends](https://github.com/AimadSADOUK/Analyzing-Morocco-s-Economy-Against-Global-Trends)**  
 This project explores Morocco's economic trends relative to global metrics, focusing on GDP growth, birth and death rates, unemployment, and internet usage. Using data analysis and visualization, it reveals Morocco's economic standing and growth drivers. Additionally, a classification model categorizes countries by income level, achieving a 99.4% accuracy.
 
 *Skills*: 
@@ -13,7 +13,7 @@ This project explores Morocco's economic trends relative to global metrics, focu
 
 *(Oct 2024)* 
 
-## **[Proj#02: HARANY - Sales Performance Analysis](https://github.com/AimadSADOUK/HARANY-Sales-Performance-Analysis_SQL_Power-BI)**  
+# **[Proj#02: HARANY - Sales Performance Analysis](https://github.com/AimadSADOUK/HARANY-Sales-Performance-Analysis_SQL_Power-BI)**  
 The HARANY Project is an in-depth sales performance analysis of HARANY, a fictional company providing innovative products across various sectors. This analysis utilizes SQL and Power BI to explore sales data across product lines, regions, deal sizes, and customer segments, aiming to uncover actionable insights to improve customer engagement and drive growth.
 
 *Skills:* 
@@ -23,7 +23,7 @@ The HARANY Project is an in-depth sales performance analysis of HARANY, a fictio
 
 *(Oct 2024)* 
 
-## **[Proj#03: Restoring the Lifeblood of Maji Ndogo](https://github.com/AimadSADOUK/Restoring-the-Lifeblood-of-Maji-Ndogo)**  
+# **[Proj#03: Restoring the Lifeblood of Maji Ndogo](https://github.com/AimadSADOUK/Restoring-the-Lifeblood-of-Maji-Ndogo)**  
  
 **Overview**
 - During my training with Explore AI Academy, I tackled the water crisis in the fictitious country of Maji Ndogo using SQL. 
@@ -44,7 +44,7 @@ The HARANY Project is an in-depth sales performance analysis of HARANY, a fictio
 
 *(Oct 2024)* 
 
-## **[Proj#04: Global Water Access Analysis Project](https://github.com/AimadSADOUK/Global-Water-Access-Analysis-Project)**  
+# **[Proj#04: Global Water Access Analysis Project](https://github.com/AimadSADOUK/Global-Water-Access-Analysis-Project)**  
 In this project, I conducted an exploratory data analysis (EDA) on global water access data, examining key metrics like urbanisation, reliance on surface and unimproved water sources, and trends in access to basic water services. This analysis provides insights into countries with the greatest challenges in water accessibility and highlights trends over recent years.  
 *Skills:* 
 -   **Pandas (data cleaning, manipulation)**

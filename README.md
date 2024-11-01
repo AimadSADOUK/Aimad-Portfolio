@@ -90,3 +90,18 @@ In this project, I conducted an exploratory data analysis (EDA) on global water 
 ### Vis#02: Second Page
 <img src="https://github.com/AimadSADOUK/Global-Water-Access-Analysis-Project/blob/main/page02.PNG?raw=true" alt="Second Page" width="750px">
 
+# Global Water Access Analysis Project
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/AimadSADOUK/Global-Water-Access-Analysis-Project/blob/main/coor_matrix.PNG" alt="Correlation Matrix" width="600px">
+      <p><strong>Correlation Matrix</strong></p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/AimadSADOUK/Global-Water-Access-Analysis-Project/blob/main/population%20by%20Country.PNG" alt="Population by Country" width="600px">
+      <p><strong>Population by Country</strong></p>
+    </td>
+  </tr>
+</table>
+

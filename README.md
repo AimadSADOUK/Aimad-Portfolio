@@ -63,3 +63,16 @@ In this project, I conducted an exploratory data analysis (EDA) on global water 
 -   **Power BI (dashboard and DAX).**
 
   *(Oct 2024)* 
+
+<table>
+  <tr>
+    <td align="left">
+      <img src="https://github.com/AimadSADOUK/Global-Water-Access-Analysis-Project/blob/main/page01.PNG?raw=true" alt="First Page" width="800px">
+      <p align="center"><strong>Vis#01: First Page</strong></p>
+    </td>
+    <td align="right">
+      <img src="https://github.com/AimadSADOUK/Global-Water-Access-Analysis-Project/blob/main/page02.PNG?raw=true" alt="Second Page" width="800px">
+      <p align="center"><strong>Vis#02: Second Page</strong></p>
+    </td>
+  </tr>
+</table>

@@ -12,7 +12,6 @@ This project explores Morocco's economic trends relative to global metrics, focu
 - **Scikit-Learn** (Predictive Modeling, Classification & Regression).
 
 *(Oct 2024)* 
-### GDP in morocco Over The Years
 <table>
   <tr>
     <td align="center">

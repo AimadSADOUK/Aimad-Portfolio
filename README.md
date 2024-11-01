@@ -99,8 +99,6 @@ In this project, I conducted an exploratory data analysis (EDA) on global water 
       <img src="https://github.com/AimadSADOUK/Global-Water-Access-Analysis-Project/blob/main/page01.PNG?raw=true" alt="First Page" width="800px" height="400px">
       <p><strong>First Page</strong></p>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://github.com/AimadSADOUK/Global-Water-Access-Analysis-Project/blob/main/page02.PNG?raw=true" alt="Second Page" width="800px" height="400px">
       <p><strong>Second Page</strong></p>
@@ -120,4 +118,5 @@ In this project, I conducted an exploratory data analysis (EDA) on global water 
     </td>
   </tr>
 </table>
+
 

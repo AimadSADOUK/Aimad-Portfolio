@@ -13,9 +13,6 @@ This project explores Morocco's economic trends relative to global metrics, focu
 
 *(Oct 2024)* 
 ### GDP in morocco Over The Years
-
-# Analyzing Morocco's Economy Against Global Trends
-
 <table>
   <tr>
     <td align="center">

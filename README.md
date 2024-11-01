@@ -25,22 +25,15 @@ The HARANY Project is an in-depth sales performance analysis of HARANY, a fictio
 
 # HARANY - Sales Performance Analysis
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/AimadSADOUK/HARANY-Sales-Performance-Analysis_SQL_Power-BI/blob/main/2-%20Page01.PNG" alt="Power BI Visualization Overview" width="600px">
-      <p><strong>Vis#01: Power BI Visualization Overview</strong></p>
-    </td>
-    <td align="center">
-      <img src="https://github.com/AimadSADOUK/HARANY-Sales-Performance-Analysis_SQL_Power-BI/blob/main/3-%20Page02.PNG" alt="Detailed Product Line Analysis" width="600px">
-      <p><strong>Vis#02: Detailed Product Line Analysis</strong></p>
-    </td>
-    <td align="center">
-      <img src="https://github.com/AimadSADOUK/HARANY-Sales-Performance-Analysis_SQL_Power-BI/blob/main/4-%20Page03.PNG" alt="Regional Sales Trends" width="600px">
-      <p><strong>Vis#03: Regional Sales Trends</strong></p>
-    </td>
-  </tr>
-</table>
+### Vis#01: Power BI Visualization Overview
+<img src="https://github.com/AimadSADOUK/HARANY-Sales-Performance-Analysis_SQL_Power-BI/blob/main/2-%20Page01.PNG" alt="Power BI Visualization Overview" width="600px">
+
+### Vis#02: Detailed Product Line Analysis
+<img src="https://github.com/AimadSADOUK/HARANY-Sales-Performance-Analysis_SQL_Power-BI/blob/main/3-%20Page02.PNG" alt="Detailed Product Line Analysis" width="600px">
+
+### Vis#03: Regional Sales Trends
+<img src="https://github.com/AimadSADOUK/HARANY-Sales-Performance-Analysis_SQL_Power-BI/blob/main/4-%20Page03.PNG" alt="Regional Sales Trends" width="600px">
+
 
 
 
@@ -75,15 +68,9 @@ In this project, I conducted an exploratory data analysis (EDA) on global water 
 
   *(Oct 2024)* 
 
-<table>
-  <tr>
-    <td align="left">
-      <img src="https://github.com/AimadSADOUK/Global-Water-Access-Analysis-Project/blob/main/page01.PNG?raw=true" alt="First Page" width="800px">
-      <p align="center"><strong>Vis#01: First Page</strong></p>
-    </td>
-    <td align="right">
-      <img src="https://github.com/AimadSADOUK/Global-Water-Access-Analysis-Project/blob/main/page02.PNG?raw=true" alt="Second Page" width="800px">
-      <p align="center"><strong>Vis#02: Second Page</strong></p>
-    </td>
-  </tr>
-</table>
+### Vis#01: First Page
+<img src="https://github.com/AimadSADOUK/Global-Water-Access-Analysis-Project/blob/main/page01.PNG?raw=true" alt="First Page" width="800px">
+
+### Vis#02: Second Page
+<img src="https://github.com/AimadSADOUK/Global-Water-Access-Analysis-Project/blob/main/page02.PNG?raw=true" alt="Second Page" width="800px">
+

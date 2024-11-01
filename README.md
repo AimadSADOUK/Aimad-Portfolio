@@ -24,7 +24,7 @@ This project explores Morocco's economic trends relative to global metrics, focu
     </td>
   </tr>
 </table>
----
+--
 
 
 # **[Proj#02: HARANY - Sales Performance Analysis](https://github.com/AimadSADOUK/HARANY-Sales-Performance-Analysis_SQL_Power-BI)**  
@@ -46,7 +46,7 @@ The HARANY Project is an in-depth sales performance analysis of HARANY, a fictio
 
 ### Vis#03: Regional Sales Trends
 <img src="https://github.com/AimadSADOUK/HARANY-Sales-Performance-Analysis_SQL_Power-BI/blob/main/4-%20Page03.PNG" alt="Regional Sales Trends" width="750px">
----
+--
 
 # **[Proj#03: Restoring the Lifeblood of Maji Ndogo](https://github.com/AimadSADOUK/Restoring-the-Lifeblood-of-Maji-Ndogo)**  
  
@@ -71,6 +71,8 @@ The HARANY Project is an in-depth sales performance analysis of HARANY, a fictio
 
 ## Relationship tables
 ![image alt text](https://github.com/AimadSADOUK/Restoring-the-Lifeblood-of-Maji-Ndogo/blob/main/4-tables_relationships.PNG)
+
+--
 
 # **[Proj#04: Global Water Access Analysis Project](https://github.com/AimadSADOUK/Global-Water-Access-Analysis-Project)**  
 In this project, I conducted an exploratory data analysis (EDA) on global water access data, examining key metrics like urbanisation, reliance on surface and unimproved water sources, and trends in access to basic water services. This analysis provides insights into countries with the greatest challenges in water accessibility and highlights trends over recent years.  

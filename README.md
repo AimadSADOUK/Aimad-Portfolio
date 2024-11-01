@@ -24,8 +24,9 @@ This project explores Morocco's economic trends relative to global metrics, focu
     </td>
   </tr>
 </table>
-
 ---
+
+
 # **[Proj#02: HARANY - Sales Performance Analysis](https://github.com/AimadSADOUK/HARANY-Sales-Performance-Analysis_SQL_Power-BI)**  
 
 The HARANY Project is an in-depth sales performance analysis of HARANY, a fictional company providing innovative products across various sectors. This analysis utilizes SQL and Power BI to explore sales data across product lines, regions, deal sizes, and customer segments, aiming to uncover actionable insights to improve customer engagement and drive growth.
@@ -45,7 +46,7 @@ The HARANY Project is an in-depth sales performance analysis of HARANY, a fictio
 
 ### Vis#03: Regional Sales Trends
 <img src="https://github.com/AimadSADOUK/HARANY-Sales-Performance-Analysis_SQL_Power-BI/blob/main/4-%20Page03.PNG" alt="Regional Sales Trends" width="750px">
-
+---
 
 # **[Proj#03: Restoring the Lifeblood of Maji Ndogo](https://github.com/AimadSADOUK/Restoring-the-Lifeblood-of-Maji-Ndogo)**  
  

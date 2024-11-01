@@ -58,7 +58,7 @@ The HARANY Project is an in-depth sales performance analysis of HARANY, a fictio
 
 *(Oct 2024)* 
 
-# Relationship tables
+## Relationship tables
 ![image alt text](https://github.com/AimadSADOUK/Restoring-the-Lifeblood-of-Maji-Ndogo/blob/main/4-tables_relationships.PNG)
 
 # **[Proj#04: Global Water Access Analysis Project](https://github.com/AimadSADOUK/Global-Water-Access-Analysis-Project)**  

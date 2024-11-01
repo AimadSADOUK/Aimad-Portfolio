@@ -36,8 +36,6 @@ The HARANY Project is an in-depth sales performance analysis of HARANY, a fictio
 
 *(Oct 2024)* 
 
-# HARANY - Sales Performance Analysis
-
 ### Vis#01: Power BI Visualization Overview
 <img src="https://github.com/AimadSADOUK/HARANY-Sales-Performance-Analysis_SQL_Power-BI/blob/main/2-%20Page01.PNG" alt="Power BI Visualization Overview" width="750px">
 

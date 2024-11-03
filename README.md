@@ -1,5 +1,5 @@
-# Aimad's-Portfolio
-### Projects
+# Aimad's-Portfolio/ Projects
+
 # **[Proj#01: Analyzing Morocco's Economy Against Global Trends](https://github.com/AimadSADOUK/Analyzing-Morocco-s-Economy-Against-Global-Trends)**  
 This project explores Morocco's economic trends relative to global metrics, focusing on GDP growth, birth and death rates, unemployment, and internet usage. Using data analysis and visualization, it reveals Morocco's economic standing and growth drivers. Additionally, a classification model categorizes countries by income level, achieving a 99.4% accuracy.
 
